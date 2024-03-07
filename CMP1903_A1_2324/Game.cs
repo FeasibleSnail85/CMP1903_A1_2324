@@ -15,6 +15,8 @@ namespace CMP1903_A1_2324
         // rolls could be continous, and the totals and other statistics could be summarised for example.
 
 
+        //line added for review
+
         public int diceTotal = 0;
 
         public Die diceOne = new Die();
