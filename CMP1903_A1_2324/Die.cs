@@ -8,10 +8,11 @@ namespace CMP1903_A1_2324
 {
     internal class Die
     {
-        
-         // The Die class should contain one property to hold the current die value,
-         // and one method that rolls the die, returns an integer and takes no parameters.
-         
+
+        // The Die class should contain one property to hold the current die value,
+        // and one method that rolls the die, returns an integer and takes no parameters.
+
+        //line added for review
 
         //Property
 
